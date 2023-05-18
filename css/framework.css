@@ -1,0 +1,90 @@
+/* start display flex and grid */
+.d-flex{
+    display: flex;
+}
+.align-c{
+    align-items: center;
+}
+.jc-sb{
+    justify-content: space-between;
+} 
+.jc-c{
+    justify-content: center;
+} 
+.d-block{
+    display: block;
+}
+/* end display flex and grid  */
+
+/*start padding and margin */
+.p-20{
+    padding: 20px;
+}
+.m-0{
+    margin: 0;
+}
+.mr-10{
+    margin-right: 10px;
+}
+.mr-20{
+    margin-right: 20px;
+}
+.mr-32{
+    margin-right: 32px;
+}
+/* end padding and margin */
+
+/* start colors */
+.c-gray{
+    color: #9698a6;
+}
+.c-white{
+    color: white;
+}
+.bg-white{
+    background-color: white;
+}
+/* end colors */
+
+/* start border */
+.rad6{
+    border-radius: 6px;
+}
+.rad10{
+    border-radius: 10px;
+}
+.rad50{
+    border-radius: 50px;
+}
+/* end border */
+
+/* start fonts */
+.fs-14{
+    font-size: 14px;
+}
+.fs-15{
+    font-size: 15px;
+}
+.fw-n{
+    font-weight: normal;
+}
+.txt-c{
+    text-align: center;
+}
+/* end fonts */
+
+/*start position */
+.p-relative{
+    position: relative;
+}
+.p-absolute{
+    position: absolute;
+}
+/*end position */
+
+/* start width and height  */
+.full-w{
+    width: 100%;
+}
+/* end width and height  */
+
